@@ -6,7 +6,7 @@ A professionally designed, responsive portfolio website built with modern web st
 
 ## Live Demo
 
-[View Live Demo](https://jamesngariu.com)
+[View Live Demo](#)
 
 ## Features
 
@@ -66,12 +66,12 @@ clean-portfolio/
 
 1. Clone the repository:
    ```
-   git clone https://github.com/jamesngariu/clean-portfolio.git
+   git clone https://github.com/jmooreCodes/jamesngariu-website.git
    ```
    
 2. Navigate to the project directory:
    ```
-   cd clean-portfolio
+   cd jamesngariu-website
    ```
 
 3. Open `index.html` in your browser or use a local development server.
@@ -158,9 +158,9 @@ This project is available under the MIT License. See the [LICENSE](LICENSE) file
 ## Author
 
 **James Ngariu**
-- Website: [jamesngariu.com](https://jamesngariu.com)
-- GitHub: [@jamesngariu](https://github.com/jamesngariu)
-- LinkedIn: [James Ngariu](https://linkedin.com/in/jamesngariu)
+- Website: [James Ngariu](https://jmoorecodes.github.io/jamesngariu-website/)
+- GitHub: [@jmooreCodes](https://github.com/jmooreCodes)
+- LinkedIn: [James Ngariu](https://linkedin.com/in/james-ngariu-538108346)
 
 ---
 
